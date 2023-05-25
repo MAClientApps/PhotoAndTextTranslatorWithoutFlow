@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227657163638",
+    "project_id": "photo-and-text-translator",
+    "storage_bucket": "photo-and-text-translator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227657163638:android:daa251ab3fda2ed9229057",
+        "android_client_info": {
+          "package_name": "com.texttrans.translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227657163638-8d5ptl1ftv81159fv00dvn97milhpacj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslnsA-yd4mBglpQimWk-5wCzyGwhvbt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227657163638-8d5ptl1ftv81159fv00dvn97milhpacj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
